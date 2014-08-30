@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/hbouvier/tomahawk-plugin-mongodb/issues"
   },
-  "homepage": "https://github.com/hbouvier/tomahawk-plugin-mongodb"
+  "homepage": "https://github.com/hbouvier/tomahawk-plugin-mongodb",
+  "dependencies": {
+    "mongoose": "^3.8.15"
+  }
 }
