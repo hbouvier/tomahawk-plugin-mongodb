@@ -1,6 +1,6 @@
 {
   "name": "tomahawk-plugin-mongo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Tomahawk plugin to impletem a Key Value Pair Store backed by MongoDB",
   "main": "lib/store.js",
   "scripts": {
