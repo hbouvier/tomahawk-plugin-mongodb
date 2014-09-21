@@ -1,8 +1,11 @@
 {
   "name": "tomahawk-plugin-mongo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Tomahawk plugin to impletem a Key Value Pair Store backed by MongoDB",
   "main": "lib/store.js",
+  "bin": {
+    "mongo-plugin": "./bin/mongo-plugin"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
